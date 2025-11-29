@@ -47,7 +47,7 @@ A complete REST API with authentication, CRUD and MongoDB.
  🔹 *Project 3: Java + Web Integration*
 
 Java backend project with modern UI.
--
+
  📫 Connect With Me
 -
 👉 Email: [sunilmadhukar07@gmail.com](mailto:sunilmadhukar07@gmail.com)
