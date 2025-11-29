@@ -48,12 +48,6 @@ A complete REST API with authentication, CRUD and MongoDB.
 
 Java backend project with modern UI.
 -
- GitHub Stats
- -
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunilMadhukarUniverse\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMadhukarUniverse)
-
  📫 Connect With Me
 -
 👉 Email: [sunilmadhukar07@gmail.com](mailto:sunilmadhukar07@gmail.com)
